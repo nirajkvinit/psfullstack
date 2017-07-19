@@ -30,4 +30,8 @@ ports:
        to: 3000
      - send: 7777
        to: 7777
+     - send: 9001
+       to: 9001
+     - send: 3001
+       to: 3001     
 #       protocol: udp
