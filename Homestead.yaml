@@ -28,6 +28,6 @@ variables:
 ports:
      - send: 3000
        to: 3000
-#     - send: 7777
-#       to: 777
+     - send: 7777
+       to: 7777
 #       protocol: udp
